@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The title</title>
+    <description>description</description>
+    <copyright>copyright</copyright>
+    <ttl>5</ttl>
+    <item>
+      <title>This is title for the item sdsdsdsdsdsdsdsdsd</title>
+      <description>This is the description description</description>
+      <link>http://test.123.com</link>
+      <author>hao.ji@ericsson.com</author>
+      <category domain="domain String">CategoryOne</category>
+      <comments>This is comments for this item</comments>
+      <enclosure url="http://test.123.com" length="10" type="Type of enclosure">enClosure</enclosure>
+      <guid isPermaLink="true">GUID-STRING-TEST-HAOJI</guid>
+      <pubDate>Tue, 14 May 2013 02:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>This is title for the item sdsdsdsdsdsdsdsdsd</title>
+      <description>This is the description description</description>
+      <link>http://test.123.com</link>
+      <author>hao.ji@ericsson.com</author>
+      <category domain="domain String">CategoryOne</category>
+      <comments>This is comments for this item</comments>
+      <enclosure url="http://test.123.com" length="10" type="Type of enclosure">enClosure</enclosure>
+      <guid isPermaLink="true">GUID-STRING-TEST-HAOJI</guid>
+      <pubDate>Wed, 15 May 2013 10:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>This is title for the item sdsdsdsdsdsdsdsdsd</title>
+      <description>This is the description description</description>
+      <link>http://test.123.com</link>
+      <author>hao.ji@ericsson.com</author>
+      <category domain="domain String">CategoryOne</category>
+      <comments>This is comments for this item</comments>
+      <enclosure url="http://test.123.com" length="10" type="Type of enclosure">enClosure</enclosure>
+      <guid isPermaLink="true">GUID-STRING-TEST-HAOJI</guid>
+      <pubDate>ven., 15 nov. 2013 02:00:20 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
